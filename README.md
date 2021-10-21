@@ -1,2 +1,2 @@
-# FaceDetection
+# FaceDetection using Javascript
  
